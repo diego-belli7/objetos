@@ -1,8 +1,9 @@
-const informacoesPessoa = ["nome", "Jose", "idade", 32, "CPF", "11122233344"];
+const informaçõesPessoa = ["nome", "Carla","idade", 37, "cpf", "11122233300"]
 
-const ojetopessoa = {
-    nome: "Diego",
-    idade: 16,
-    cpf:"11122233344",
-    email: "bellidiego254@gmail.com"
+const objetoPessoa = {
+    nome: "Carla",
+    idade: 37,
+    cpf: "11122233300",
+    email: "carla.dutra.medeiros@escola.pr.gov.br"
+
 }

@@ -1,7 +1,7 @@
 const cliente = {
-    nome: "Diego",
-    idade: 16,
-    email: "a.diego@escola.pr.gov.br",
-    telefone: ["43988379178", "43996032929"]
+    nome: "Carla",
+    idade: 37,
+    email: "carla@email.com.br",
+    telefone: ["(43)999077471", "(43)999226866"],
 };
-console.log;
+console.log(cliente.telefone);
